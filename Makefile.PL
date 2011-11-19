@@ -4,7 +4,8 @@ use Module::Install::AuthorTests;
 name 'Acme-Shiin';
 all_from 'lib/Acme/Shiin.pm';
 
-#requires '';
+requires 'LWP::UserAgent';
+requires 'Lingua::JA::Regular::Unicode';
 
 test_requires 'Test::More', 0.98;
 
