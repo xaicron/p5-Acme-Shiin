@@ -119,7 +119,7 @@ Acme::Shiin - Consonantalize Japanese.
 =head1 DESCRIPTION
 
 Acme::Shiin is Consonantalize Japanese.
-C<< shiin >> is a C<< consonant >> in japanese.
+C<< shiin >> is a C<< consonant >> in Japanese.
 
 Using Yahoo furigana API inside.
 You should be have a Yahoo appId.

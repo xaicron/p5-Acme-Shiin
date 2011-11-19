@@ -31,7 +31,13 @@ all_pod_files_spelling_ok('lib');
 
 __DATA__
 Acme::Shiin
+mjrs
+furigana
+API
+appId
+Consonantalize
 
 # personal section
 xaicron
 xaicron {at} cpan.org
+gfx's
